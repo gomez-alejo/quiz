@@ -79,5 +79,7 @@ const App = () => {
   );
 };
 
+
+
 // Exportamos el componente para que pueda ser usado en otras partes de la aplicación
 export default App;
